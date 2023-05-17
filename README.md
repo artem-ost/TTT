@@ -1,2 +1,2 @@
 # TTT
-Tic-Tac-Toe
+Tic-Tac-Toe on C++ by me.
